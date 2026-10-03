@@ -5,7 +5,7 @@
 A dark Omarchy theme inspired by Blade Runner's noir atmosphere and the warm interiors of Tyrell's world. Ivory text, restrained gold highlights and muted burgundy accents sit against rain-soaked streets, monumental architecture and distant city lights.
 
 <p align="center">
-  <img src="assets/rachael-desktop.png" alt="Blade desktop with a floating activity monitor over Rachael in a blue-and-amber Tyrell penthouse" width="100%">
+  <img src="assets/rooftop-desktop.png" alt="Blade desktop showing the rainy city skyline, rooftop reflections and warm charcoal Omarchy bar" width="100%">
 </p>
 
 ## Install
