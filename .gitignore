@@ -1,0 +1,9 @@
+# Local experiments and generated bookkeeping
+drafts/
+dist/
+manifest.json
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+*.swp

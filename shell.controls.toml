@@ -1,0 +1,8 @@
+[controls]
+focus-color = "#D0A267"
+focus-border = "#D0A267"
+focus-border-alpha = 0.8
+selected-color = "#D0A267"
+selected-border = "#D0A267"
+selected-border-width = 1
+selected-border-alpha = 0.45
