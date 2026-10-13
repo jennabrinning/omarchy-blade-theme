@@ -75,8 +75,8 @@ The four Grok wallpapers are **1792 × 1008**; Rachael and Spinner are **1672 ×
     <td width="50%" align="center"><a href="backgrounds/04-market.jpg"><img src="backgrounds/04-market.jpg" alt="Rainy night market with a warm noodle stall, umbrellas and a blue billboard" width="100%"></a><br><b>Market · street life</b><br>Warm food-stall light beneath the neon.</td>
   </tr>
   <tr>
-    <td width="50%" align="center"><a href="backgrounds/05-rachael.png"><img src="backgrounds/05-rachael.png" alt="Rachael beside an amber-lit window overlooking a rainy blue futuristic city" width="100%"></a><br><b>Rachael · Tyrell's window</b><br>Ivory, tobacco gold and a rainy blue city.</td>
-    <td width="50%" align="center"><a href="backgrounds/06-spinner.png"><img src="backgrounds/06-spinner.png" alt="Small police spinner above an atmospheric city canyon viewed from a dark rooftop" width="100%"></a><br><b>Spinner · night patrol</b><br>A distant vehicle above a vast city canyon.</td>
+    <td width="50%" align="center"><a href="backgrounds/05-rachael.webp"><img src="backgrounds/05-rachael.webp" alt="Rachael beside an amber-lit window overlooking a rainy blue futuristic city" width="100%"></a><br><b>Rachael · Tyrell's window</b><br>Ivory, tobacco gold and a rainy blue city.</td>
+    <td width="50%" align="center"><a href="backgrounds/06-spinner.webp"><img src="backgrounds/06-spinner.webp" alt="Small police spinner above an atmospheric city canyon viewed from a dark rooftop" width="100%"></a><br><b>Spinner · night patrol</b><br>A distant vehicle above a vast city canyon.</td>
   </tr>
 </table>
 
